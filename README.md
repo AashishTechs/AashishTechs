@@ -170,14 +170,14 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<a href="https://github.com/AashishTechs">
-  <img src="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg?cache=refresh" alt="AashishTechs GitHub Contribution Activity Graph" width="100%"/>
+<a href="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg">
+  <img src="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg" alt="AashishTechs GitHub Contribution Activity Graph" width="100%"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/AashishTechs">
-  <img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE%20%26%20CONTRIBUTIONS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub profile and contribution calendar"/>
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub profile and contribution calendar"/>
 </a>
 
 </div>
@@ -192,11 +192,17 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<a href="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">
-  <img src="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies" width="100%"/>
+<a href="https://github.com/AashishTechs?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Repositories-6366f1?style=for-the-badge&logo=github" alt="Explore repositories"/>
+</a>
+<a href="https://github.com/AashishTechs?tab=followers">
+  <img src="https://img.shields.io/github/followers/AashishTechs?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/AashishTechs?tab=repositories">
+  <img src="https://img.shields.io/github/stars/AashishTechs?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&label=Stars&logo=github&color=181717" alt="GitHub stars"/>
 </a>
 
-<p><a href="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">Open GitHub trophies directly ↗</a></p>
+<p><em>Achievement cards are shown with GitHub-hosted profile links and Shields.io badges because the third-party trophy image service is currently returning a 503 error.</em></p>
 
 </div>
 
