@@ -170,11 +170,7 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<a href="https://github.com/AashishTechs">
-
-<img src="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg" alt="AashishTechs GitHub Contribution Activity Graph" width="100%"/>
-
-</a>
+![AashishTechs GitHub Contribution Activity Graph](https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg)
 
 <p>
   <a href="https://github.com/AashishTechs">View my GitHub profile and contribution calendar ↗</a>
@@ -192,7 +188,7 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies"/>
+![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
 
 </div>
 
@@ -204,7 +200,7 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+![GitHub Contribution Snake Animation](https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
