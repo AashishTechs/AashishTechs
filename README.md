@@ -11,7 +11,7 @@
 <br>
 
 <a href="https://github.com/AashishTechs">
-  <img src="https://komarev.com/ghpvc/?username=AashishTechs&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AashishTechs&label=VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 </a>
 <a href="https://github.com/AashishTechs?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Explore Repositories"/>
