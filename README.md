@@ -170,7 +170,17 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AashishTechs&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+<a href="https://github.com/AashishTechs">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AashishTechs&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="AashishTechs GitHub Contribution Activity Graph" width="100%"/>
+
+</a>
+
+<p>
+  <a href="https://github.com/AashishTechs">View my GitHub contribution calendar ↗</a>
+  ·
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity graph service</a>
+</p>
 
 </div>
 
