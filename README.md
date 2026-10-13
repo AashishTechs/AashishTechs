@@ -170,11 +170,15 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-![AashishTechs GitHub Contribution Activity Graph](https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg)
+<a href="https://github.com/AashishTechs">
+  <img src="https://raw.githubusercontent.com/AashishTechs/AashishTechs/output/activity-graph.svg?cache=refresh" alt="AashishTechs GitHub Contribution Activity Graph" width="100%"/>
+</a>
 
-<p>
-  <a href="https://github.com/AashishTechs">View my GitHub profile and contribution calendar ↗</a>
-</p>
+<br/>
+
+<a href="https://github.com/AashishTechs">
+  <img src="https://img.shields.io/badge/VIEW%20GITHUB%20PROFILE%20%26%20CONTRIBUTIONS-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub profile and contribution calendar"/>
+</a>
 
 </div>
 
@@ -188,7 +192,11 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 <div align="center">
 
-![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+<a href="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies" width="100%"/>
+</a>
+
+<p><a href="https://github-profile-trophy.vercel.app/?username=AashishTechs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6">Open GitHub trophies directly ↗</a></p>
 
 </div>
 
