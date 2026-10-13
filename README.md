@@ -208,7 +208,7 @@ A Telegram bot project focused on conversational interactions and group engageme
 
 </div>
 
-> **Setup required:** The contribution snake image requires a GitHub Actions workflow to generate the SVG. Follow the setup instructions below before enabling this section.
+> The activity graph and contribution snake are generated together by GitHub Actions and published to the `output` branch.
 
 ---
 
